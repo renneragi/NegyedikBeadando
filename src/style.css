@@ -1,0 +1,42 @@
+.tenger {
+    -fx-background-color: #b4eeff;
+}
+
+/* .tenger:hover {
+    -fx-background-color: #58b9d5;
+} */
+
+.hajo {
+    -fx-background-color: #f6d3a1;
+}
+/* .hajo:hover {
+    -fx-background-color: #d5a158;
+} */
+
+.megnemtudjuk {
+    -fx-background-color: #ffffff;
+}
+.megnemtudjuk:hover {
+    -fx-background-color: #aaaaaa;
+}
+
+.talalt {
+    -fx-background-color: #f6a1a1;
+}
+.talalt:hover {
+    -fx-background-color: #cc3030;
+}
+
+.nemtalalt {
+    -fx-background-color: #d5f6a1;
+}
+.nemtalalt:hover {
+    -fx-background-color: #7aaa43;
+}
+
+.gridPane {
+    -fx-background-color: rgba(95, 95, 95, 0.4);
+    -fx-vgap: 1;
+    -fx-hgap: 1;
+    -fx-padding: 1;
+}
